@@ -1,5 +1,5 @@
 #include <iostream>
-#include <cmath>
+#include <cmath>//math std
 #include <string>
 #include <iomanip>  // Para usar std::setprecision
 
